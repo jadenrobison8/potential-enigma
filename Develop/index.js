@@ -10,7 +10,7 @@ const questions = [
     {name: 'name', message: "What is your name? "},
     {name: 'email', message:"What is your email address? "},
     {name: 'github', message: "What is your github username? "},
-    {name: 'license', message: "What license would you like to use? Choose from: <br/> Apache, GNU, Mozilla or MIT (lowercase) "},
+    {name: 'license', message: "What license would you like to use? Choose from: Apache, GNU, Mozilla or MIT (lowercase) "},
     {name: 'title', message: "What is the title of your project?"},
     {name: 'description', message: "Enter a description of your project: "},
     {name: 'installation', message: "What are the installation instructions? "},
