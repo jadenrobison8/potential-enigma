@@ -10,12 +10,12 @@ const questions = [
     {name: 'name', message: "What is your name? "},
     {name: 'email', message:"What is your email address? "},
     {name: 'github', message: "What is your github username? "},
-    {name: 'license', message: "What license would you like to use? Choose from: /br Apache, GNU, Mozilla or MIT "},
+    {name: 'license', message: "What license would you like to use? Choose from: <br/> Apache, GNU, Mozilla or MIT (lowercase) "},
     {name: 'title', message: "What is the title of your project?"},
     {name: 'description', message: "Enter a description of your project: "},
     {name: 'installation', message: "What are the installation instructions? "},
     {name: 'usage', message: "What are the usage instructions? "},
-    {name: 'contribute', message: "Enter Contribution guidelines: "},
+    {name: 'contribute', message: "Would you like contribution guidelines? Yes or no: "},
     {name: 'tests', message: "Enter test instructions: "}
 ];
 
