@@ -2,7 +2,7 @@
   
   #  by jaden
 
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
   
@@ -26,19 +26,16 @@
   
 
   ## Questions
-  Github:
-  github.com/jaden
-  jaden
+  Github: github.com/jaden
+  Email: jaden
 
   ## Contributing
   
 
   ## Tests
   
-
   
-    ## License
-    undefined
-    hello
-    
+  ## License
+  
+  [License: MIT](https://opensource.org/licenses/MIT)
 
